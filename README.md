@@ -1,10 +1,12 @@
 ## Free
 - [Easypanel](https://easypanel.io/)
-- [Vesta](https://vestacp.com/)
+- [VestaCP](https://vestacp.com/)
 - [Virtualmin](https://www.virtualmin.com/)
 - [Webmin](https://www.webmin.com/)
 - [Sentora](http://www.sentora.org/)
 - [CWP](https://control-webpanel.com/)
+- [Ajenti](https://ajenti.org/)
+- [CyberPanel](https://cyberpanel.net/)
 
 ## Commercial
 - [cPanel](https://cpanel.net/)
